@@ -1,5 +1,5 @@
- Name: O.sirisha Reddy
- Reg.No:212222230103
+ Name: Sanjai S
+ Reg.No:23003393
 
 # Experiment-02 Implementation of combinational logic
 ## AIM:
